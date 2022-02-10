@@ -3,3 +3,4 @@
 # Remélem csodálatosan telik a napod :)
 # Géza kék az ég
 # Első VS Codeból érkező commit
+# Második commitom a ReadME fáljba. By: Erik
