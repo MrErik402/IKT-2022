@@ -4,3 +4,4 @@
 # Géza kék az ég
 # Első VS Codeból érkező commit
 # Második commitom a ReadME fáljba, a VS Codeból. By: Erik
+# 7. sor beíllesztése. Itt nem található semmi fontos dolog :)
