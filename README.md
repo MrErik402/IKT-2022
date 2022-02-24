@@ -1,4 +1,4 @@
-# Ez kell szerekeszteni
+# Változzon aminek köll
 # Helló, üdv itt az oldalom. Ez az első commit
 # Remélem csodálatosan telik a napod :)
 # Géza kék az ég
