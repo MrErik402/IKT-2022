@@ -10,3 +10,4 @@
 # 3 sort tervezünk ebbe a commitba hozzá adni a reponkhoz, melynek neve "IKT-2022". Ezt az OLVASSEL.md fáljt teljesen át kell dolgoznom.
 # Az otthoni gépről érkező commit!
 # Emléksztető: következő órán dolgozat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# A Csongor bevallotta, hogy inkább Zombi lenne.
