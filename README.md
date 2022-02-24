@@ -1,4 +1,4 @@
-# IKT-2020
+# Ez kell szerekeszteni
 # Helló, üdv itt az oldalom. Ez az első commit
 # Remélem csodálatosan telik a napod :)
 # Géza kék az ég
