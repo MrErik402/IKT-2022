@@ -1,7 +1,7 @@
 # Nekem tetszik egyenlőre ez a dolog
 # Helló, üdv itt az oldalom. Ez az első commit
 # Remélem csodálatosan telik a napod :)
-# Géza kék az ég
+# Elaludt a halacska 2.1 
 # Első VS Codeból érkező commit
 # Második commitom a ReadME fáljba, a VS Codeból. By: Erik
 # 7. sor beíllesztése. Itt nem található semmi fontos dolog :)
