@@ -11,3 +11,4 @@
 # Az otthoni gépről érkező commit!
 # Emléksztető: következő órán dolgozat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # A Csongor bevallotta, hogy inkább Zombi lenne.
+# AGüLÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍV LÁKÜ FLÁÁÁÁÁÁÁÁJ ÁGÜLÍÍÍÍÍÍÍV INTO TECS TÖ SKÁÁÁÁJ 
