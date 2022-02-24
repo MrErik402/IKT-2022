@@ -1,4 +1,4 @@
-# Teljesen mindegy, hogy mit írok ide... :)
+# Nekem tetszik egyenlőre ez a dolog
 # Helló, üdv itt az oldalom. Ez az első commit
 # Remélem csodálatosan telik a napod :)
 # Géza kék az ég
