@@ -11,3 +11,4 @@
 # Az otthoni gépről érkező commit!
 # Emléksztető: következő órán dolgozat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # Indul a pap aludni
+# Mennék már én issssssss
