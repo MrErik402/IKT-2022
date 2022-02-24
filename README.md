@@ -10,21 +10,13 @@
 # 3 sort tervezünk ebbe a commitba hozzá adni a reponkhoz, melynek neve "IKT-2022". Ezt az OLVASSEL.md fáljt teljesen át kell dolgoznom.
 # Az otthoni gépről érkező commit!
 # Emléksztető: következő órán dolgozat!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Indul a pap aludni
 # Mennék már én issssssss
 =======
-<<<<<<< HEAD
 # A Csongor bevallotta, hogy inkább Zombi lenne.
-<<<<<<< HEAD
 # AGüLÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍV LÁKÜ FLÁÁÁÁÁÁÁÁJ ÁGÜLÍÍÍÍÍÍÍV INTO TECS TÖ SKÁÁÁÁJ 
 =======
 =======
 # Indul a pap aludni
->>>>>>> 1d12e72c48a36335e5615c4cb6faf84c778fdfa4
->>>>>>> 2a9796edabd2a4158bbbad2867b96f63f9477514
 =======
 # A Csongor bevallotta, hogy inkább Zombi lenne.
->>>>>>> 14a32b886cdfea6b73164a32eaf3f63ad92567b2
->>>>>>> 411f0f21be4edb5ea3ae3222195ef4e0205c39a8
