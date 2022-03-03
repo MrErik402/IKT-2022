@@ -22,3 +22,4 @@
 # A Csongor bevallotta, hogy inkább Zombi lenne.
 # Sziasztok testvéreim!!!!4!!!44
 # Teszteljük le, hogy jól müködik-e minden.
+# Eladó a bicikli a prios fehér bicikli eladó a kecske a fekete fehér kecske eladó a birka a fehér és zöld birka eladó az autó a piros fehér auto eladó a kamion a zöld s kék kamion eladó a marha a boci boci tarka eladó a labda disznos kecskés hulla
