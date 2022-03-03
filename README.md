@@ -20,9 +20,4 @@
 # Indul a pap aludni
 =======
 # A Csongor bevallotta, hogy inkább Zombi lenne.
-<<<<<<< HEAD
-Sziasztok testvéreim!!!!4!!!44
-=======
-
-# ADÜLÍV INTO TACS TÖ SKÍWEBLÖÖÖÖR
->>>>>>> d0b56e08fadfd71c1045098b6a2d0502e35573b4
+# Sziasztok testvéreim!!!!4!!!44
