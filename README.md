@@ -21,3 +21,4 @@
 =======
 # A Csongor bevallotta, hogy inkább Zombi lenne.
 # Sziasztok testvéreim!!!!4!!!44
+# Teszteljük le, hogy jól müködik-e minden.
