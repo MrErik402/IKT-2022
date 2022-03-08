@@ -22,3 +22,6 @@
 # A Csongor bevallotta, hogy inkább Zombi lenne.
 # Sziasztok testvéreim!!!!4!!!44
 # Teszteljük le, hogy jól müködik-e minden.
+# Horty Miklós katonája vagyok, legszebb katonája.. Vígan élem katona életem nincsen gondom másra. Masírozok káplárom szavára Úgy gondolok az én violámra.. 
+# Egyszer elmegyek én... Egy messzi földre megyek... Nagyon hiányozni fogsz... Mert nincsen más dolgom... Te vagy az egyetlen életem értelme, nincs más gondom. Veleg kell mennem.
+# Ősi közmondások: Halj meg, hogy halhatalan lehess! Legends Never Die! Surrender or Die! Spartan Gamer's for ever <3333!!!
